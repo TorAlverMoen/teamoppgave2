@@ -1,0 +1,26 @@
+h1{font-size:30px;}
+
+body {
+    display: flex;
+    background-color: grey;
+    margin: 1%;
+}
+
+img {
+    width: 80px;
+}
+
+#imgContainer {
+    display: flex;
+    justify-items: center;
+}
+
+#img1{
+    height: 50vh;
+    width: auto;
+}
+
+button {
+    font-size: 2rem;
+    border-radius: 15%;
+}
