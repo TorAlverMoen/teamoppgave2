@@ -21,6 +21,7 @@ img {
 #imgContainer {
     display: flex;
     justify-items: center;
+    width: 800px;
 }
 
 #img1{
